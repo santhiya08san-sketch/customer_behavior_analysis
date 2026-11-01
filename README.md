@@ -48,4 +48,17 @@ An interactive dashboard was developed to explore:
 - `SQL/` – PostgreSQL queries
 - `Power BI/` – Dashboard file
 - `Report/` – Final project report
-- `Presentation
+- `Presentation/` – Project presentation
+
+## 💡 Key Learning Outcomes
+- Practical data cleaning and analysis
+- Writing SQL queries for business problems
+- Creating interactive Power BI dashboards
+- Understanding customer behaviour through data
+- Communicating analytical insights
+
+## 👩‍💻 Author
+**Santhiya**
+
+This project was completed as part of my Data Analytics learning and portfolio development.
+
